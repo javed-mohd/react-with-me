@@ -1,0 +1,22 @@
+.container_fluid {
+    width: 100%;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+.container_fluid button {
+    background-color: #fff;
+    padding: 10px 20px;
+    color: #000;
+    border: none;
+    margin: 0px 10px;
+}
+.cards {
+    width: 420px;
+    height: auto;
+    text-align: center;
+}
+.container_main {
+    display: flex;
+    justify-content: space-between;
+}

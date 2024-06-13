@@ -1,0 +1,46 @@
+.main_header {
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+.header {
+    padding: 30px;
+}
+.main_header h1 {
+    color: #fff;
+    margin: 0px;
+    text-align: center;
+}
+.navbar_strip {
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}
+.main_header button {
+    border: none;
+    padding: 6px 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 17px;
+    margin: 0px 3px;
+}
+.cards {
+    width: 32%;
+    height: auto;
+    overflow: hidden;
+    margin: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.cards img {
+    width: 100%;
+    height: auto;
+}
+.cards h2 {
+    font-size: 22px;
+    text-align: center;
+    margin-top: -30px;
+}
+.cards_container {
+    display: flex;
+    flex-wrap: wrap;
+}

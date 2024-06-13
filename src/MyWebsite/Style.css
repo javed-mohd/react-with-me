@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+}
+.cards {
+    background-color: #000;
+    padding: 10px 30px;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 4px;
+}
+.card_name {
+    color: #fff;
+}
+.navbar {
+    background-color: #000;
+    color: #fff;
+    padding: 30px 0px;
+    text-align: center;
+    display:block;
+}
+button {
+    padding: 10px 20px;
+    color: #000;
+    cursor: pointer;
+}
